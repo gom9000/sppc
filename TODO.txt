@@ -1,0 +1,14 @@
+TODO SPPC:
+--------------------------------------------------
+
+- completa introduzione sppc.
+- scrivi sezione per compilazione programmi + make
+- completa una scheda sppc.
+
+
+TODO PGM:
+--------------------------------------------------
+
+- completa libreria stringhe
+- games a caratteri
+

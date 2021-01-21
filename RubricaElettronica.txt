@@ -1,0 +1,21 @@
+Rubrica Elettronica
+-------------------
+
+Menu Principale
+  Inserimento nuova scheda --> [form inserimento] --> [form esito operazione] --> [Menu Principale]
+                                         ^                      |
+                                         +----------------------+
+ 
+  Ricerca da archivio --> Ordina per Cognome, Ordina per Nome. --> [form di ricerca] -->
+  Modifica scheda
+  Visualizza scheda
+
+  Riorganizza Indici
+
+
+FORMs:
+ Menu Principale
+ Inserimento scheda
+ Esito Ricerca da archivio
+ Visualiizzazione scheda
+ Esito operazione effettuata
